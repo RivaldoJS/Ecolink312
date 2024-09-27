@@ -35,6 +35,7 @@ function Signup() {
                 
                 <button type="submit">Cadastrar</button>
             </form>
+            <link to="/login">Já tem cadastro? Faça login</link>  
         </main>
     );
 }
